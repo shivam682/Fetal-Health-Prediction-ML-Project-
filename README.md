@@ -77,7 +77,4 @@ To ensure robust model performance, 10-fold cross-validation (k=10) was applied,
 - Shivam Kumar Jha ([shivam20332@iiitd.ac.in](mailto:shivam20332@iiitd.ac.in))
 - Subhanshu Bansal ([subhanshu20135@iiitd.ac.in](mailto:subhanshu20135@iiitd.ac.in))
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
