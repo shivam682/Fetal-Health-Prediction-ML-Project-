@@ -61,9 +61,13 @@ To ensure robust model performance, 10-fold cross-validation (k=10) was applied,
     ```bash
     pip install -r requirements.txt
     ```
-3. Run the Jupyter notebook:
+3. Install the Jupyter notebook:
     ```bash
-    jupyter notebook Foetal_Health_Prediction.ipynb
+    conda install -c conda-forge notebook
+    ```
+3. Run Jupyter notebook:
+    ```bash
+    jupyter notebook ML_Project.ipynb
     ```
 
 ## Contributors
